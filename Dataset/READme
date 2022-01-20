@@ -1,0 +1,7 @@
+-- Dữ liệu Import đầu vào SQL Database: Dataset_chinh.xlsx
+-- Dữ liệu Export sau khi đã xử lí:     Clean_data.xlsx
+-- File xử lí code SQL:  Clean.sql
+
+Sau khi đã clean dữ liệu bằng SQL
+Ở bước cuối cùng dùng LEFT JOIN để nối 2 bảng Sale & Customer
+=> ra kết quả thì Export dữ liệu ra và lưu lại thành file Excel
